@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Platform",
+    "description": "A modern e-commerce platform with stunning animations and seamless user experience. Built with Next.js and react-bits for engaging interactions.",
+    "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "react-bits"],
+    "heroImage": "/images/portfolio/ecommerce-hero.jpg",
+    "category": "Web Application",
+    "url": "https://example-ecommerce.com",
+    "githubUrl": "https://github.com/agency/ecommerce-platform"
+  },
+  {
+    "id": "2", 
+    "title": "Digital Marketing Dashboard",
+    "description": "An analytics dashboard featuring interactive charts and real-time data visualization with smooth animations powered by react-bits.",
+    "techStack": ["React", "TypeScript", "D3.js", "react-bits", "Node.js"],
+    "heroImage": "/images/portfolio/dashboard-hero.jpg",
+    "category": "Dashboard",
+    "url": "https://marketing-dashboard.com",
+    "githubUrl": "https://github.com/agency/marketing-dashboard"
+  },
+  {
+    "id": "3",
+    "title": "Creative Studio Website", 
+    "description": "A portfolio website for a creative studio showcasing beautiful animations and interactive elements using react-bits components.",
+    "techStack": ["Next.js", "react-bits", "Framer Motion", "Tailwind CSS"],
+    "heroImage": "/images/portfolio/studio-hero.jpg", 
+    "category": "Website",
+    "url": "https://creative-studio.com"
+  },
+  {
+    "id": "4",
+    "title": "Mobile Banking App",
+    "description": "A secure and intuitive mobile banking application with smooth animations and micro-interactions built with React Native and react-bits.",
+    "techStack": ["React Native", "TypeScript", "react-bits", "Node.js", "MongoDB"],
+    "heroImage": "/images/portfolio/banking-hero.jpg",
+    "category": "Mobile App",
+    "url": "https://banking-app.com",
+    "githubUrl": "https://github.com/agency/banking-app"
+  },
+  {
+    "id": "5",
+    "title": "SaaS Landing Page",
+    "description": "A high-converting SaaS landing page with interactive animations and optimized performance using react-bits and Next.js.",
+    "techStack": ["Next.js", "react-bits", "Tailwind CSS", "TypeScript"],
+    "heroImage": "/images/portfolio/saas-hero.jpg",
+    "category": "Website",
+    "url": "https://saas-landing.com"
+  },
+  {
+    "id": "6",
+    "title": "Real Estate Platform",
+    "description": "A comprehensive real estate platform with property listings, interactive maps, and engaging animations using react-bits.",
+    "techStack": ["Next.js", "React", "react-bits", "Mapbox", "TypeScript"],
+    "heroImage": "/images/portfolio/realestate-hero.jpg", 
+    "category": "Web Application",
+    "url": "https://realestate-platform.com",
+    "githubUrl": "https://github.com/agency/realestate-platform"
+  }
+]
