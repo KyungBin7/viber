@@ -17,3 +17,6 @@ add-serena.sh
 *.tmp
 *.temp
 .cache/
+
+# Documentation
+docs/
